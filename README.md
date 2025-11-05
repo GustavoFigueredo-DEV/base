@@ -64,4 +64,4 @@ php -S localhost:3000 -t public
 - Centralize dados em `app/data/`.  
 - Mantenha arquivos de estilo e scripts dentro de `public/assets/`.  
 - Use `include` ou `require` para chamar componentes dentro do `index.php`.
-
+aa
